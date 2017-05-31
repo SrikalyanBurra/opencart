@@ -11,6 +11,7 @@ function  test_dump($tst){
 
   //echo "after commit before push<br>";
 
+  echo "Inside test_sub1";
   return ;
 
 }
