@@ -9,7 +9,8 @@ function  test_dump($tst){
 
   fwrite($test_fp,$tst."\n");
 
-  echo "after commit before push\n";
+  echo "after commit before push<br>";
+  echo "change identified<br>";
 
   return ;
 
