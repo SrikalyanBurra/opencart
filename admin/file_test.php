@@ -9,6 +9,8 @@ function  test_dump($tst){
 
   fwrite($test_fp,$tst."\n");
 
+  echo "after commit before push\n";
+
   return ;
 
 }
