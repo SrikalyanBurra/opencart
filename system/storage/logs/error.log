@@ -1,0 +1,99 @@
+2017-05-29 11:21:25 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Notice:  Use of undefined constant parts - assumed 'parts' in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Warning:  implode(): Invalid arguments passed in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 13
+2017-05-29 11:21:25 - PHP Warning:  fclose() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 13
+2017-05-29 11:21:25 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Notice:  Use of undefined constant parts - assumed 'parts' in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Warning:  implode(): Invalid arguments passed in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 13
+2017-05-29 11:21:25 - PHP Warning:  fclose() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 13
+2017-05-29 11:21:25 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Notice:  Use of undefined constant parts - assumed 'parts' in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Warning:  implode(): Invalid arguments passed in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:21:25 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 13
+2017-05-29 11:21:25 - PHP Warning:  fclose() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 13
+2017-05-29 11:40:58 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Notice:  Use of undefined constant parts - assumed 'parts' in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Warning:  implode(): Invalid arguments passed in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Notice:  Use of undefined constant parts - assumed 'parts' in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Warning:  implode(): Invalid arguments passed in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Notice:  Use of undefined constant parts - assumed 'parts' in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Warning:  implode(): Invalid arguments passed in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:40:58 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Notice:  Use of undefined constant parts - assumed 'parts' in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Warning:  implode(): Invalid arguments passed in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Notice:  Use of undefined constant parts - assumed 'parts' in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Warning:  implode(): Invalid arguments passed in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Notice:  Use of undefined constant parts - assumed 'parts' in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Warning:  implode(): Invalid arguments passed in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:42:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:20 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:20 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:20 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:26 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:26 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:26 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:44:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:51:20 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:51:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:51:20 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:51:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:51:20 - PHP Notice:  Undefined variable: file_test in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:51:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:54:03 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:54:03 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:54:03 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:54:04 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:54:04 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:54:04 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:54:22 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:54:22 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 11:54:22 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:48:41 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:48:41 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:48:41 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:51:27 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:51:27 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:51:27 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:52:38 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:52:38 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:52:38 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:52:39 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:52:39 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 13:52:39 - PHP Warning:  fwrite() expects parameter 2 to be string, array given in /Users/srikalyan/Sites/opencart/system/engine/action.php on line 12
+2017-05-29 14:17:08 - PHP Notice:  Undefined variable: test_fp in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 7
+2017-05-29 14:17:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 7
+2017-05-29 14:17:08 - PHP Notice:  Undefined variable: test_fp in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 7
+2017-05-29 14:17:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 7
+2017-05-29 14:17:08 - PHP Notice:  Undefined variable: test_fp in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 7
+2017-05-29 14:17:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 7
+2017-05-29 14:20:06 - PHP Notice:  Undefined variable: test_fp in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:20:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:20:06 - PHP Notice:  Undefined variable: test_fp in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:20:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:20:06 - PHP Notice:  Undefined variable: test_fp in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:20:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:21:21 - PHP Notice:  Undefined variable: test_fp in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:21:21 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:21:21 - PHP Notice:  Undefined variable: test_fp in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:21:21 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:21:21 - PHP Notice:  Undefined variable: test_fp in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
+2017-05-29 14:21:21 - PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /Users/srikalyan/Sites/opencart/admin/file_test.php on line 8
