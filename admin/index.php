@@ -21,7 +21,7 @@ if (!defined('DIR_APPLICATION')) {
 
 //fwrite($file_test,"hello\n");
 //fclose($file_test);
-$test_fp  =   fopen('file_test.txt','w+');
+
 require_once(DIR_SYSTEM . 'startup.php');
 
 start('admin');
