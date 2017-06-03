@@ -8,7 +8,6 @@ function  test_dump($tst){
   global $test_fp ;
 
   fwrite($test_fp,$tst."\n");
-
   return ;
 
 }

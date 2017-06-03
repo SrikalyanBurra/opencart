@@ -12,7 +12,7 @@ class Action {
 		//fwrite($file_test,implode(',',$parts));
 		//fclose($file_test);
 		//exit();
-		//test_dump(implode(',',$parts));
+		test_dump(implode(',',$parts));
 		
 		// Break apart the route
 		//$i=0;

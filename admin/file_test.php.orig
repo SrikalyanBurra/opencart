@@ -1,0 +1,26 @@
+<?php
+
+
+$test_fp  =   fopen('file_test.txt','w+');
+
+function  test_dump($tst){
+
+  global $test_fp ;
+
+  fwrite($test_fp,$tst."\n");
+
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  echo "after commit before push<br>";
+  echo "This is inside test branch<br>";
+  echo "Inside test";
+  echo "";
+=======
+  echo "after commit before push\n";
+
+>>>>>>> parent of e370e94... small changes
+>>>>>>> Stashed changes
+  return ;
+
+}
